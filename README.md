@@ -5,7 +5,7 @@ The author will only be taking EC2104 in the upcoming semester (AY2023/24 Semest
 
 Some subsections in the document are dedicated to concepts specific to economics. However, the author does not major in Economics. The content in these subsections might therefore be inaccurate.
 
-The notes currently only covers the calculus in EC2104. Beisdes calculus, the course also covers a good deal of linear algebra. This document will continue be updated in the future to include these contents.
+The notes currently only covers the calculus in EC2104. Besides calculus, the course also covers a good deal of linear algebra. This document will continue be updated in the future to include these contents.
 
 The author is aware of, and does not care much about, the usage of sloppy mathematical notations, inaccurate definitions and incomplete theorems in the notes. Some degree of rigorousness has been sacrificed to make the notes more comprehensible by economics students.
 
