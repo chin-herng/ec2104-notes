@@ -1,11 +1,9 @@
 # ec2104-notes
-Notes on the mathematics covered in NUS EC2104 Quantitative Methods for Economic Analysis.
+Notes on the calculus covered in NUS EC2104 Quantitative Methods for Economic Analysis.
 
-The author will only be taking EC2104 in the upcoming semester (AY2023/24 Semester 1). He has very limited knowledge in terms of what will or will not be covered in the course. A general outline of the content is retrieved from reviews on NUSMods as well as past-year midterm papers available online.
+The author will took MA1521 instead of EC2104. He has very limited knowledge in terms of what will or will not be covered in the course. A general outline of the content is retrieved from reviews on NUSMods as well as past-year midterm papers available online.
 
 Some subsections in the document are dedicated to concepts specific to economics. However, the author does not major in Economics. The content in these subsections might therefore be inaccurate.
-
-The notes currently only covers the calculus in EC2104. Besides calculus, the course also covers a good deal of linear algebra. This document will continue be updated in the future to include these contents.
 
 The author is aware of, and does not care much about, the usage of sloppy mathematical notations, inaccurate definitions and incomplete theorems in the notes. Some degree of rigorousness has been sacrificed to make the notes more comprehensible by economics students.
 
