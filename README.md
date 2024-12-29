@@ -1,7 +1,7 @@
 # ec2104-notes
 Notes on the calculus covered in NUS EC2104 Quantitative Methods for Economic Analysis.
 
-The author will took MA1521 instead of EC2104. He has very limited knowledge in terms of what will or will not be covered in the course. A general outline of the content is retrieved from reviews on NUSMods as well as past-year midterm papers available online.
+The author took MA1521 instead of EC2104. He has very limited knowledge in terms of what will or will not be covered in the course. A general outline of the content is retrieved from reviews on NUSMods as well as past-year midterm papers available online.
 
 Some subsections in the document are dedicated to concepts specific to economics. However, the author does not major in Economics. The content in these subsections might therefore be inaccurate.
 
